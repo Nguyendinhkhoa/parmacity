@@ -13,7 +13,7 @@ function Footer(props) {
                 <div className="footer-widget footer-about-widget">
                   <div className="footer-logo">
                     <div className="site-logo">
-                      <img src="img/logo-2.png" alt="Logo" />
+                      <img src="#" alt="Logo" />
                       <span>Medicine</span>
                     </div>
                   </div>

@@ -210,7 +210,7 @@ function Header(props) {
               <div className="col">
                 <div className="site-logo">
                   <Link to="/">
-                    <img src="img/logo.png" alt="" />
+                    <img src="#" alt="" />
                     Medicine
                   </Link>
                 </div>
@@ -289,7 +289,7 @@ function Header(props) {
                 <div className="sticky-logo">
                   <div className="site-logo">
                     <a href="index.html">
-                      <img src="img/logo-3.png" alt="Logo" />
+                      <img src="#" alt="Logo" />
                     </a>
                   </div>
                 </div>
